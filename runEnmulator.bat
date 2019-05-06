@@ -1,0 +1,1 @@
+D:\"Program Files (x86)"\Android\android-sdk\emulator\emulator.exe -netdelay none -netspeed full -avd Pixel_XL_API_28
